@@ -19,5 +19,6 @@
   "bugs": {
     "url": "https://github.com/Charbo23/mock/issues"
   },
-  "homepage": "https://github.com/Charbo23/mock#readme"
+  "homepage": "https://github.com/Charbo23/mock#readme",
+  "dependencies": {}
 }
