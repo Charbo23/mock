@@ -1,4 +1,4 @@
 {
     "port":9000,
-    "noCors":true
+    "noCors":false
 }
